@@ -1,0 +1,14 @@
+C:\JOSE\Facultad\web3\tpGrupal\Login\DB\bin\Debug\net6.0\DB.deps.json
+C:\JOSE\Facultad\web3\tpGrupal\Login\DB\bin\Debug\net6.0\DB.runtimeconfig.json
+C:\JOSE\Facultad\web3\tpGrupal\Login\DB\bin\Debug\net6.0\DB.dll
+C:\JOSE\Facultad\web3\tpGrupal\Login\DB\bin\Debug\net6.0\DB.pdb
+C:\JOSE\Facultad\web3\tpGrupal\Login\DB\obj\Debug\net6.0\DB.csproj.AssemblyReference.cache
+C:\JOSE\Facultad\web3\tpGrupal\Login\DB\obj\Debug\net6.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\JOSE\Facultad\web3\tpGrupal\Login\DB\obj\Debug\net6.0\DB.AssemblyInfoInputs.cache
+C:\JOSE\Facultad\web3\tpGrupal\Login\DB\obj\Debug\net6.0\DB.AssemblyInfo.cs
+C:\JOSE\Facultad\web3\tpGrupal\Login\DB\obj\Debug\net6.0\DB.csproj.CoreCompileInputs.cache
+C:\JOSE\Facultad\web3\tpGrupal\Login\DB\obj\Debug\net6.0\DB.dll
+C:\JOSE\Facultad\web3\tpGrupal\Login\DB\obj\Debug\net6.0\refint\DB.dll
+C:\JOSE\Facultad\web3\tpGrupal\Login\DB\obj\Debug\net6.0\DB.pdb
+C:\JOSE\Facultad\web3\tpGrupal\Login\DB\obj\Debug\net6.0\DB.genruntimeconfig.cache
+C:\JOSE\Facultad\web3\tpGrupal\Login\DB\obj\Debug\net6.0\ref\DB.dll
